@@ -1,0 +1,65 @@
+body
+{
+    text-align: center;
+    background: linear-gradient( to right, cyan, pink, white, yellowgreen);
+	background-repeat:no-repeat;
+}
+
+img
+{
+  border-radius:10%;
+  height: 200px;
+  width: 250px;
+}
+
+
+h1{
+  text-shadow:2px 2px 2px cyan;
+  font-size:20px;
+}
+
+
+p{
+  font-size:18px;
+  color:#6A1B9A;
+  
+    
+}
+h2{
+  font-size:20px;
+  color:#1A237E;
+}
+.line{
+    height: 6px;
+    background-color:red;
+    width:150px;
+    margin:18px auto;
+}
+#bio{
+    padding:40px;
+    font-size:25px;
+    text-align:center;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float:right;
+    top: 10px;
+    right:30px;
+    cursor: pointer;
+    color:lightsalmon;
+    }
+#name{
+    font-family: Dancing Script;
+    }
+li{
+    display: inline;
+    
+}
+ 
+ul{list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
